@@ -1,0 +1,7 @@
+apiVersion: v1
+name: python-helm-helloworld 
+description: Install a Python HelloWorld deployment
+keywords:
+- python
+- helloworld 
+version: 1.0.0
