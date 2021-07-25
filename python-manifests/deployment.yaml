@@ -21,7 +21,7 @@ spec:
         app: python-helloworld
     spec:
       containers:
-      - image: lawcodes/python-helloworld:latest
+      - image: lawcodes/python-helloworld:v1.0.0
         imagePullPolicy: IfNotPresent
         name: python-helloworld
         resources:
