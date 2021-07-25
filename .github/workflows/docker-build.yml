@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: lawcodes/python-helloworld:latest
+          tags: lawcodes/python-helloworld:v1.0.0
